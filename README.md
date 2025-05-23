@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## Running the Project
 
 ```bash
-python main.py
+python video_creator.py
 ```
 
 ## Output
